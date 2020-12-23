@@ -4,7 +4,7 @@ Aplikasi berbasis android yang dapat membantu dalam mendiagnosa penyakit dan gan
 # Contoh Tampilan Aplikasi
 1. Tampilan Halaman Utama dan Tampilan Menu Utama.
 
-![1](https://user-images.githubusercontent.com/68157923/102998052-f680b200-4558-11eb-879a-1b921beae799.PNG)
+![1](https://user-images.githubusercontent.com/68157923/102998052-f680b200-4558-11eb-879a-1b921beae799.PNG =100x20)
 
 2. Tampilan Menu Trimester, Tampilan Pilihan Gejala, Tampilan Hasil, Tampilan Menu Solusi.
 
