@@ -6,9 +6,9 @@ Aplikasi berbasis android yang dapat membantu dalam mendiagnosa penyakit dan gan
 
 <img src="https://user-images.githubusercontent.com/68157923/102998052-f680b200-4558-11eb-879a-1b921beae799.PNG" width="420" height="400"/>
 
-2. Tampilan Menu Trimester, Tampilan Pilihan Gejala, Tampilan Hasil, Tampilan Menu Solusi.
+2. Tampilan Menu Trimester, Tampilan Pilihan Gejala, Tampilan Hasil.
 
-<img src="https://user-images.githubusercontent.com/68157923/102998157-321b7c00-4559-11eb-9e17-5e360a11361b.PNG" width="820" height="400"/>
+<img src="https://user-images.githubusercontent.com/68157923/103003905-19fd2a00-4564-11eb-811f-1f72adee5b8c.PNG" width="620" height="400"/>
 
 3. Tampilan Menu Tips dan Informasi, Tampilan Menu Tips, Tampilan Menu Informasi.
 
