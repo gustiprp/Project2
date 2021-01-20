@@ -18,14 +18,14 @@ Aplikasi berbasis android yang dapat membantu dalam mengidentifikasi penyakit da
 * XML
 
 ## Demos
-### Tampilan Awal Masuk Aplikasi:
+### Tampilan Awal Masuk Aplikasi :arrow_right: Menu Utama :
 
 <img src="https://user-images.githubusercontent.com/68157923/105194539-46f52a80-5b6c-11eb-8486-6f9ed7a8acca.gif" width="240" height="460"/>
 
 
-### Tampilan Latihan Soal (Teks-Gambar):
+### Tampilan Identifikasi Penyakit:
 
-<img src="https://user-images.githubusercontent.com/68157923/105146879-07f6b300-5b33-11eb-8505-6d7b94d310b1.gif" width="240" height="460"/> <img src="https://user-images.githubusercontent.com/68157923/105147146-573ce380-5b33-11eb-81e7-718c5d3b9ce0.gif" width="240" height="460"/>
+<img src="https://user-images.githubusercontent.com/68157923/105194647-62603580-5b6c-11eb-9592-7419aee007af.gif" width="240" height="460"/>
 
 
 ### Hasil Nilai :arrow_right: Menu Pembahasan :arrow_right: Pembahasan Soal:
@@ -33,9 +33,9 @@ Aplikasi berbasis android yang dapat membantu dalam mengidentifikasi penyakit da
 <img src="https://user-images.githubusercontent.com/68157923/105153797-6b84de80-5b3b-11eb-9550-6e49f39005e3.gif" width="240" height="460"/>
 
 
-### Hasil Nilai :arrow_right: Ulangi Latihan Soal:
+### Hasil Identifikasi :arrow_right: List Solusi :arrow_right: Menu Utama:
 
-<img src="https://user-images.githubusercontent.com/68157923/105153982-9ec76d80-5b3b-11eb-94c4-404870752776.gif" width="240" height="460"/>
+<img src="https://user-images.githubusercontent.com/68157923/105195030-c3880900-5b6c-11eb-8a20-9cedd11bf4a5.gif" width="240" height="460"/>
 
 
 ### Hasil Nilai :arrow_right: Halaman Utama:
