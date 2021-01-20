@@ -1,4 +1,4 @@
-## Aplikasi Sistem Pakar untuk Mengindentifikasi Penyakit Kehamilan pada Ibu Hamil Berbasis Android
+## Aplikasi Sistem Pakar untuk Indentifikasi Penyakit Ibu Hamil Berbasis Android
 
 ## Author
 
