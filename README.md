@@ -61,3 +61,7 @@ Aplikasi berbasis android yang dapat membantu dalam mengidentifikasi penyakit da
 ### Tentang:
 
 <img src="https://user-images.githubusercontent.com/68157923/105196028-c6372e00-5b6d-11eb-96c7-d5f299f8402a.gif" width="240" height="460"/>
+
+### Alert Dialog Exit:
+
+<img src="https://user-images.githubusercontent.com/68157923/105201968-0ac5c800-5b74-11eb-9ca6-4b615e615aec.gif" width="240" height="460"/>
