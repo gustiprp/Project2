@@ -28,7 +28,7 @@ Aplikasi berbasis android yang dapat membantu dalam mengidentifikasi penyakit da
 <img src="https://user-images.githubusercontent.com/68157923/105194647-62603580-5b6c-11eb-9592-7419aee007af.gif" width="240" height="460"/>
 
 
-### Hasil Identifikasi :arrow_right: List Solusi :arrow_right: Solusi Penyakit :arrow_right: Menu Utama:
+### Hasil Identifikasi :arrow_right: Solusi Penyakit:
 
 <img src="https://user-images.githubusercontent.com/68157923/105195030-c3880900-5b6c-11eb-8a20-9cedd11bf4a5.gif" width="240" height="460"/>
 
@@ -38,16 +38,26 @@ Aplikasi berbasis android yang dapat membantu dalam mengidentifikasi penyakit da
 <img src="https://user-images.githubusercontent.com/68157923/105195242-0ba72b80-5b6d-11eb-9bbe-bdf71deee85f.gif" width="240" height="460"/>
 
 
-### Halaman Utama :arrow_right: Menu Pembahasan :arrow_right: Pembahasan Soal
+### Menu Utama :arrow_right: Tips Kehamilan:
 
-<img src="https://user-images.githubusercontent.com/68157923/105154153-d209fc80-5b3b-11eb-98bd-b674a37873b6.gif" width="240" height="460"/>
-
-
-### Halaman Utama :arrow_right: Tentang
-
-<img src="https://user-images.githubusercontent.com/68157923/105154683-607e7e00-5b3c-11eb-93e4-213cc1281138.gif" width="240" height="460"/>
+<img src="https://user-images.githubusercontent.com/68157923/105195362-27123680-5b6d-11eb-9ce4-91e055468071.gif" width="240" height="460"/>
 
 
-### Tampilan Alert Dialog Exit
+### Menu Utama :arrow_right: Informasi Kehamilan:
 
-<img src="https://user-images.githubusercontent.com/68157923/105154746-6d02d680-5b3c-11eb-8d54-6ff01e982e6f.gif" width="240" height="460"/>
+<img src="https://user-images.githubusercontent.com/68157923/105195497-45783200-5b6d-11eb-9e76-248908084ff8.gif" width="240" height="460"/>
+
+
+### Musik:
+
+<img src="https://user-images.githubusercontent.com/68157923/105195732-7f493880-5b6d-11eb-80b6-fe6bdb0c69c6.gif" width="240" height="460"/>
+
+
+### Hubungi Bidan:
+
+<img src="https://user-images.githubusercontent.com/68157923/105195969-b91a3f00-5b6d-11eb-9922-46e3508eea2b.gif" width="240" height="460"/>
+
+
+### Tentang:
+
+<img src="https://user-images.githubusercontent.com/68157923/105196028-c6372e00-5b6d-11eb-96c7-d5f299f8402a.gif" width="240" height="460"/>
