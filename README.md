@@ -28,7 +28,7 @@ Aplikasi berbasis android yang dapat membantu dalam mengidentifikasi penyakit da
 <img src="https://user-images.githubusercontent.com/68157923/105194647-62603580-5b6c-11eb-9592-7419aee007af.gif" width="240" height="460"/>
 
 
-### Hasil Identifikasi :arrow_right: Solusi Penyakit:
+### Hasil Identifikasi :arrow_right: Solusi Penyakit :arrow_right: Menu Utama:
 
 <img src="https://user-images.githubusercontent.com/68157923/105195030-c3880900-5b6c-11eb-8a20-9cedd11bf4a5.gif" width="240" height="460"/>
 
