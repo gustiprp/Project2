@@ -18,22 +18,22 @@ Aplikasi berbasis android yang dapat membantu dalam mengidentifikasi penyakit da
 * XML
 
 ## Demos
-### Tampilan Awal Masuk Aplikasi :arrow_right: Tampilan Menu Utama :
+### Awal Masuk Aplikasi :arrow_right: Menu Utama :
 
 <img src="https://user-images.githubusercontent.com/68157923/105194539-46f52a80-5b6c-11eb-8486-6f9ed7a8acca.gif" width="240" height="460"/>
 
 
-### Tampilan Identifikasi Penyakit:
+### Identifikasi Penyakit:
 
 <img src="https://user-images.githubusercontent.com/68157923/105194647-62603580-5b6c-11eb-9592-7419aee007af.gif" width="240" height="460"/>
 
 
-### Tampilan Hasil Identifikasi :arrow_right: Tampilan List Solusi :arrow_right: Tampilan Menu Utama:
+### Hasil Identifikasi :arrow_right: List Solusi :arrow_right: Solusi Penyakit :arrow_right: Menu Utama:
 
 <img src="https://user-images.githubusercontent.com/68157923/105195030-c3880900-5b6c-11eb-8a20-9cedd11bf4a5.gif" width="240" height="460"/>
 
 
-### Tampilan Hasil Identifikasi :arrow_right: Tampilan Hubungi Bidan:
+### Hasil Identifikasi :arrow_right: Hubungi Bidan:
 
 <img src="https://user-images.githubusercontent.com/68157923/105195242-0ba72b80-5b6d-11eb-9bbe-bdf71deee85f.gif" width="240" height="460"/>
 
