@@ -18,7 +18,7 @@ Aplikasi berbasis android yang dapat membantu dalam mengidentifikasi penyakit da
 * XML
 
 ## Demos
-### Tampilan Awal Masuk Aplikasi :arrow_right: Menu Utama :
+### Tampilan Awal Masuk Aplikasi :arrow_right: Tampilan Menu Utama :
 
 <img src="https://user-images.githubusercontent.com/68157923/105194539-46f52a80-5b6c-11eb-8486-6f9ed7a8acca.gif" width="240" height="460"/>
 
@@ -28,19 +28,14 @@ Aplikasi berbasis android yang dapat membantu dalam mengidentifikasi penyakit da
 <img src="https://user-images.githubusercontent.com/68157923/105194647-62603580-5b6c-11eb-9592-7419aee007af.gif" width="240" height="460"/>
 
 
-### Hasil Nilai :arrow_right: Menu Pembahasan :arrow_right: Pembahasan Soal:
-
-<img src="https://user-images.githubusercontent.com/68157923/105153797-6b84de80-5b3b-11eb-9550-6e49f39005e3.gif" width="240" height="460"/>
-
-
-### Hasil Identifikasi :arrow_right: List Solusi :arrow_right: Menu Utama:
+### Tampilan Hasil Identifikasi :arrow_right: Tampilan List Solusi :arrow_right: Tampilan Menu Utama:
 
 <img src="https://user-images.githubusercontent.com/68157923/105195030-c3880900-5b6c-11eb-8a20-9cedd11bf4a5.gif" width="240" height="460"/>
 
 
-### Hasil Nilai :arrow_right: Halaman Utama:
+### Tampilan Hasil Identifikasi :arrow_right: Tampilan Hubungi Bidan:
 
-<img src="https://user-images.githubusercontent.com/68157923/105154117-c9192b00-5b3b-11eb-95ca-a81c36ef6d92.gif" width="240" height="460"/>
+<img src="https://user-images.githubusercontent.com/68157923/105195242-0ba72b80-5b6d-11eb-9bbe-bdf71deee85f.gif" width="240" height="460"/>
 
 
 ### Halaman Utama :arrow_right: Menu Pembahasan :arrow_right: Pembahasan Soal
