@@ -7,7 +7,7 @@ Gusti Putu Rudi Pratama 2020
 ## Table of Contents
 * [About this Project](#about-this-project)
 * [Technologies](#technologies)
-* [Demos](#demos)
+* [Demo](#demo)
 
 ## About this Project
 Aplikasi berbasis android yang dapat membantu dalam mengidentifikasi penyakit dan gangguan kehamilan serta solusi penanganannya. Aplikasi ini dibuat sebagai alternatif selain berkonsultasi atau periksa ke dokter kandungan atau bidan. Aplikasi ini dibuat agar menarik dan praktis untuk digunakan oleh ibu hamil tanpa mengeluarkan biaya.
@@ -17,7 +17,7 @@ Aplikasi berbasis android yang dapat membantu dalam mengidentifikasi penyakit da
 * Java
 * XML
 
-## Demos
+## Demo
 ### Awal Masuk Aplikasi :arrow_right: Menu Utama :
 
 <img src="https://user-images.githubusercontent.com/68157923/105194539-46f52a80-5b6c-11eb-8486-6f9ed7a8acca.gif" width="240" height="460"/>
