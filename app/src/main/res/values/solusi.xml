@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="Anemia"> 1. konsumsi suplemen tambah darah plus vitamin c untuk mempercepat efek penggunaan suplemen tambah darah \n\n
+            2. mengkonsumsi sayuran, buah, kacang-kacangan yang mengandung asam folat seperti buah bit, sayur bayam, dan juga hati ayam
+
+    </string>
+        <string name="Abortus_Kompletus"> 1. Tindakan yang mungkin dilakukan adalah USG untuk melihat apakah benar benar
+            tidak ada sisa jaringan di uterus yang jika ada sisanantinya akan dilakukan kuretase \n\n
+            2. Segera melakukan pemeriksaan ke tenaga kesehatan terdekat untuk penanganan lebih lanjut
+    </string>
+        <string name="Abortus_Iminens"> 1.	Istirahat tidur baring yang cukup (bedrest) \n\n
+            2. Tidak melakukan aktifitas yang berat \n\n
+            3. Tidak melakukan hubungan seksual \n\n
+            4. Segera melakukan pemeriksaan ke tenaga kesehatan terdekat untuk penanganan lebih lanjut
+    </string>
+        <string name="Abortus_Insipiens"> 1. Istirahat tidur baring yang cukup (bedrest) \n\n
+            2. Tidak melakukan aktifitas yang berat \n\n
+            3. Tidak melakukan hubungan seksual \n\n
+            4. Lakukan USG untuk melihat apakah bayi masih hidup atau tidak\n\n
+            5. Segera melakukan pemeriksaan ke tenaga kesehatan terdekat untuk penanganan lebih lanjut
+    </string>
+        <string name="Abortus_Inkompletus"> 1. Tindakan yang mungkin dilakukan adalah pengeluaran sisa jaringan yang ada di rahim dengan kuretase \n\n
+            2. Segera melakukan pemeriksaan ke tenaga kesehatan terdekat untuk penanganan lebih lanjut
+    </string>
+        <string name="Emesis_Gravidarum"> 1. Makan makanan yang mengandung karbohidrat dan protein yang dapat membantu mengatasi rasa mual dan
+                perbanyak mengkonsumsi buah dan sayuran serta makanan yang tinggi karbohidrat seperti kentang, ubi, singkong, mangga, pisang,kacang-kacangan, jagung, dan lain sebagainya \n\n
+            2. Menghindari makanan yang berlemak, berminyak dan pedas yang dapat memperburuk rasa mual \n\n
+            3. Minum yang cukup untuk mengindari dehidrasi dan menghindari minuman yang mengandung kafein \n\n
+            4. Mengkonsumsi vitamin B6 untuk mengurangi rasa mual, *dengan anjuran dokter \n\n
+            5. Makan dalam jumlah sedikit tapi sering seriap 2-3 jam sekali
+    </string>
+        <string name="Hiperemesis_Gravidarum_TipeI"> 1.	Hindari makanan yang berlemak dan berbau menyengat \n\n
+            2. Mencoba makan dengan porsi yang sedikit tapi sering \n\n
+            3. Banyak minum untuk menghindari dehidrasi \n\n
+            4. Gunakan aroma terapi untuk mengurangi mual, seperti aroma lemon, jahe, papermint \n\n
+            5. Segera melakukan pemeriksaan ke tenaga kesehatan terdekat untuk penanganan lebih lanjut
+    </string>
+        <string name="Hiperemesis_Gravidarum_TipeII"> 1.	Banyak minum untuk menghindari dehidrasi \n\n
+            2. Gunakan aroma terapi untuk mengurangi mual, seperti aroma lemon, jahe, papermint \n\n
+            3. Segera melakukan pemeriksaan ke tenaga kesehatan terdekat untuk penanganan lebih lanjut
+    </string>
+        <string name="Hiperemesis_Gravidarum_TipeIII"> 1. Banyak minum untuk menghindari dehidrasi, jika ibu sudah tidak bisa minum datang ke fasilitas
+                kesehatan unutk mendapatkan asupan cairan tambahan (infus) \n\n
+            2. Segera melakukan pemeriksaan ke tenaga kesehatan terdekat untuk penanganan lebih lanjut
+    </string>
+        <string name="Hipertensi_Gestasional"> 1. Istirahat yang cukup \n\n
+            2. Hindari bergadang \n\n
+            3. Tidak merekok dan minum alkohol \n\n
+            4. Memakan makan yang bergizi tertama yang menjaga kestabilan tekanan darah \n\n
+            5. Menghindari stress \n\n
+            6. Segera melakukan pemeriksaan ke tenaga kesehatan terdekat untuk penanganan lebih lanjut
+    </string>
+        <string name="Infeksi_Saluran_Kemih_Pada_Kehamilan"> 1. Konsumsi antibiotik sesuai resep dokter \n\n
+            2. Perbayak minum untuk meningkatkan cairan
+    </string>
+        <string name="Kehamilan_Ektopik_Terganggu"> 1. Tindakan yang mungkin dilakukan adalah operasi pengangkatan janin yang berada di tuba fallopi \n\n
+            2. Segera melakukan pemeriksaan ke tenaga kesehatan terdekat untuk penanganan lebih lanjut
+    </string>
+        <string name="Mola_Hidatidosa"> 1. Tindakan yang mungkin dilakukan adalah operasi pengangkatan jaringan yang dilakukan dengan
+                Kuretase atau pengankatan rahim (Histerektomi) pilihan ini diambil jika tidak ingin memiliki keturunan lagi \n\n
+            2. Segera melakukan pemeriksaan ke tenaga kesehatan terdekat untuk penanganan lebih lanjut
+    </string>
+        <string name="Preeklamsia"> 1. Istirahat sebanyak mungkin \n\n
+            2. Diet garam \n\n
+            3. Mengkonsumsi obat antihypertensi dengan resep dokter \n\n
+            4. Tidak merokok dan minum alkohol \n\n
+            5. Segera melakukan pemeriksaan ke tenaga kesehatan terdekat untuk
+    </string>
+        <string name="Plasenta_Previa"> 1.	Jika usia kehamilan kurang dari 34 minggu dengan kondisi ibu dan janin baik maka kehamilan kemungkinan bisa dipertahankan \n\n
+            2. Jika usia kehamilan lebih dari 34 minggu dan kondisi ibu dan janin kurang baik kemungkinan besar akan dilakukan proses persalian dengan operasi Caesare \n\n
+            3. Jika pendarahan hebat di perlukan trasfusi darah \n\n
+            4. Segera melakukan pemeriksaan ke tenaga kesehatan terdekat untuk penanganan lebih lanjut
+    </string>
+        <string name="Plasenta_Previa_Totalis"> 1. Hindari berhubungan seks \n\n
+            2. Segera melakukan pemeriksaan ke tenaga kesehatan terdekat untuk penanganan lebih lanjut
+    </string>
+        <string name="Plasenta_Previa_Lateralis"> 1. Hindari berhubungan seks \n\n
+            2. Segera melakukan pemeriksaan ke tenaga kesehatan terdekat untuk penanganan lebih lanjut
+    </string>
+        <string name="Plasenta_Previa_Marginal"> 1. Hindari berhubungan seks \n\n
+            2. Segera melakukan pemeriksaan ke tenaga kesehatan terdekat untuk penanganan lebih lanjut
+    </string>
+        <string name="Plasenta_Previa_Letak_Rendah"> 1. Hindari berhubungan seks \n\n
+            2. Segera melakukan pemeriksaan ke tenaga kesehatan terdekat untuk penanganan lebih lanjut
+    </string>
+        <string name="Solusio_Plasenta_Berat"> 1. Jika usia kehamilan kurang dari 34 minggu dengan kondisi ibu dan janin baik maka kehamilan kemungkinan bisa dipertahankan \n\n
+            2. Jika usia kehamilan lebih dari 34 minggu dan kondisi ibu dan janin kurang baik kemungkinan besar akan dilakukan proses persalian dengan operasi Caesare \n\n
+            3. Jika pendarahan hebat di perlukan trasfusi darah \n\n
+            4. Segera melakukan pemeriksaan ke tenaga kesehatan terdekat untuk penanganan lebih lanjut
+    </string>
+        <string name="Solusio_Plasenta_Sedang"> 1. Jika usia kehamilan kurang dari 34 minggu dengan kondisi ibu dan janin baik maka kehamilan kemungkinan bisa dipertahankan \n\n
+            2. Jika usia kehamilan lebih dari 34 minggu dan kondisi ibu dan janin kurang baik kemungkinan besar akan dilakukan proses persalian dengan operasi Caesare \n\n
+            3. Jika pendarahan hebat di perlukan trasfusi darah \n\n
+            4. Segera melakukan pemeriksaan ke tenaga kesehatan terdekat untuk penanganan lebih lanjut
+    </string>
+        <string name="Solusio_Plasenta_Ringan"> 1. Jika usia kehamilan kurang dari 34 minggu dengan kondisi ibu dan janin baik maka kehamilan kemungkinan bisa dipertahankan \n\n
+            2. Jika usia kehamilan lebih dari 34 minggu dan kondisi ibu dan janin kurang baik kemungkinan besar akan dilakukan proses persalian dengan operasi Caesare \n\n
+            3. Jika pendarahan hebat di perlukan trasfusi darah \n\n
+            4. Segera melakukan pemeriksaan ke tenaga kesehatan terdekat untuk penanganan lebih lanjut
+    </string>
+</resources>

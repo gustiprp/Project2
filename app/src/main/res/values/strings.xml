@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Pregnancy</string>
+    <string name="judul_info"><u>Informasi Aplikasi</u></string>
+    <string name="isi_info"> Aplikasi Identifikasi Penyakit pada Ibu Hamil\n\n
+
+        Aplikasi dibuat oleh:\n
+        Nama : I Gusti Putu Rudi Pratama\n
+        NPM : 1B118068\n
+        Mahasiswa Universitas Gunadarma\n
+        Jurusan Sistem Informasi.\n
+        email : gustiputu10@yahoo.com\n\n
+
+        Download Aplikasi Kunjungi :\n
+        *******.blogspot.com\n </string>
+    <string name="hlm_utama"><u>Menu Utama</u></string>
+    <string name="tv_trimester1">Pilih Gejala atau Keluhan yang anda rasakan :</string>
+    <string-array name="listmusic">
+        <item>Beethoven - Für Elise</item>
+        <item>Beethoven - Moonlight Sonata</item>
+        <item>Beethoven - Ode an die Freude/Ode to Joy 1</item>
+        <item>Mozart - Cannon in D major</item>
+        <item>Mozart - Piano Concerto No. 17 in G, K. 453</item>
+        <item>Yiruma - Kiss the Rain</item>
+        <item>Yiruma - River Flows in You</item>
+    </string-array>
+
+</resources>

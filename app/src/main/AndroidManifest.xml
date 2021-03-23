@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.gusti">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon_pregnant"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/icon_pregnant"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".tips.Tips_BumilSakitPinggang"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".tips.Tips_BumilPtgSusu"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".tips.Tips_BumilAnemia"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".tips.Tips_BumilHiper"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".tips.Tips_BumilEmeGra"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".informasi.info_Solusio_Plasenta_Ringan"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".informasi.info_Solusio_Plasenta_Sedang"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".informasi.info_Solusio_Plasenta_Berat"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".informasi.info_Plasenta_Previa_Letak_Rendah"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".informasi.info_Plasenta_Previa_Marginal"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".informasi.info_Plasenta_Previa_Leteralis"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".informasi.info_Plasenta_Previa_Totalis"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".informasi.info_Plasenta_Previa"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".informasi.info_Preeklamsia"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".informasi.info_Mola_Hidatidosa"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".informasi.info_Kehamilan_Ektopik_Terganggu"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".informasi.info_Infeksi_Saluran_Kemih"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".informasi.info_Hipertensi_Gestasional"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".informasi.info_Hiperemesis_Gravidarum_Tipe3"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".informasi.info_Hiperemesis_Gravidarum_Tipe2"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".informasi.info_Hiperemesis_Gravidarum_Tipe1"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".informasi.info_Emesis_Gravidarum"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".informasi.info_Abortus_Inkompletus"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".informasi.info_Abortus_Insipiens"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".informasi.info_Abortus_Iminens"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".informasi.info_Abortus_Kompletus"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".informasi.info_Anemia"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity android:name=".Informasi" />
+        <activity android:name=".Tips" />
+        <activity
+            android:name=".solusi.Solusi_Solusio_Plasenta_Ringan"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".solusi.Solusi_Solusio_Plasenta_Sedang"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".solusi.Solusi_Solusio_Plasenta_Berat"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".solusi.Solusi_Plasenta_Previa_Letak_Rendah"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".solusi.Solusi_Plasenta_Previa_Marginal"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".solusi.Solusi_Plasenta_Previa_Leteralis"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".solusi.Solusi_Plasenta_Previa_Totalis"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".solusi.Solusi_Plasenta_Previa"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".solusi.Solusi_Preeklamsia"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".solusi.Solusi_Mola_Hidatidosa"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".solusi.Solusi_Kehamilan_Ektopik_Terganggu"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".solusi.Solusi_Infeksi_Saluran_Kemih"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".solusi.Solusi_Hipertensi_Gestasional"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".solusi.Solusi_Hiperemesis_Gravidarum_Tipe3"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".solusi.Solusi_Hiperemesis_Gravidarum_Tipe2"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".solusi.Solusi_Hiperemesis_Gravidarum_Tipe1"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".solusi.Solusi_Emesis_Gravidarum"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".solusi.Solusi_Abortus_Inkompletus"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".solusi.Solusi_Abortus_Insipiens"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".solusi.Solusi_Abortus_Iminens"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".solusi.Solusi_Abortus_Kompletus"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity
+            android:name=".solusi.Solusi_Anemia"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity android:name=".Identifikasi" />
+        <activity android:name=".Solusi" />
+        <activity
+            android:name=".Info"
+            android:theme="@style/AlertDialogNoTitle" />
+        <activity android:name=".HubBidan" />
+        <activity android:name=".Home">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Trimester3" />
+        <activity android:name=".Trimester2" />
+        <activity android:name=".Trimester1" />
+        <activity android:name=".Musik" />
+        <activity android:name=".TipsInfo" />
+        <activity android:name=".Trimester" />
+        <activity android:name=".Halaman_Utama" />
+    </application>
+
+</manifest>

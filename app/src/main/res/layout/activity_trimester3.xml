@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/pinkflavour_background"
+    tools:context=".Trimester3">
+
+        <ScrollView
+            android:id="@+id/scrollView"
+            android:layout_width="0dp"
+            android:layout_height="390dp"
+            app:layout_constraintBottom_toTopOf="@+id/button_deteksi"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView_trimester3">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <CheckBox
+                    android:id="@+id/G29"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Tekanan darah terakhir diatas atau sama dengan 140/90"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G30"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Sakit kepala yang sulit hilang"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G31"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Pembengkakan pada wajah, tangan dan kaki"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G32"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Mual dan muntah"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G33"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Kesulitan bernafas"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G34"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Berat badan naik"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G35"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Gangguan penglihatan"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G44"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Mulas berat (Perut kontraksi)"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G45"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Gerakan janin berkurang bahkan tidak terasa"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G46"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Tidak ada pendarahan"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G47"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Nyeri tekan pada perut"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G48"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Mulas sedang – berat (Perut kontraksi) "
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G49"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Gerakan janin berkurang"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G08"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Nadi meningkat sekitar 100x/menit"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G50"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Mulas ringan (Perut kontraksi)"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G51"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Nadi normal"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G52"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Gerakan janin masih terasa seperti biasa"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G67"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Pendarahan tanpa nyeri"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G68"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Pendarahan berulang-ulang"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G26"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Pendarahan hebat"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G69"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Pendarahan ditrimester akhir"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G42"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Pendarahan"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G53"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Warna darah merah segar"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G54"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Tidak ada nyeri (tekan pada perut)"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G55"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Teraba jaringan pada jalan lahir"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G56"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Teraba jaringan pada samping jalan lahir"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G57"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Teraba plasenta pada bagian samping atas jalan lahir"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G58"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Kulit, bibir dan wajah terasa pucat"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G59"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Letih"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G60"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Lesuh"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G61"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Lunglai"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G62"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Detak jantung tak teratur"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G63"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Sakit dan rasa terbakar saat berkemih"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G64"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Sering berkemih, tapi air seni yang keluar sedikit"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G36"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Nyeri pada perut bagian bawah"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G65"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Cairan urine keruh"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <CheckBox
+                    android:id="@+id/G66"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Demam"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </ScrollView>
+
+        <TextView
+            android:id="@+id/textView_trimester1"
+            android:layout_width="match_parent"
+            android:layout_height="114dp"
+            android:layout_marginBottom="16dp"
+            android:fontFamily="sans-serif-medium"
+            android:gravity="center_vertical"
+            android:lineSpacingExtra="8sp"
+            android:shadowColor="#FFFFFF"
+            android:shadowRadius="5"
+            android:text="@string/tv_trimester1"
+            android:textAlignment="center"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toTopOf="@+id/scrollView"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/button_deteksi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/pink_button"
+            android:text="Deteksi Penyakit"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/scrollView" />
+
+        <TextView
+            android:id="@+id/tv_identifikasi"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:visibility="invisible"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bidan1"> Nama: Beswita Maharani \n
+    Kontak: 08777749**** \n
+    Lokasi: Bogor</string>
+    <string name="bidan2"> Nama:  \n
+    Kontak:  \n
+    Lokasi: </string>
+    <string name="bidan3"> Nama:  \n
+    Kontak:  \n
+    Lokasi: </string>
+    <string name="bidan4"> Nama:  \n
+    Kontak:  \n
+    Lokasi: </string>
+    <string name="bidan5"> Nama:  \n
+    Kontak:  \n
+    Lokasi: </string>
+    <string name="bidan6"> Nama:  \n
+    Kontak:  \n
+    Lokasi: </string>
+</resources>

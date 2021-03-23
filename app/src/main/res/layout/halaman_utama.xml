@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/pinkflavour_background"
+    tools:context=".Halaman_Utama">
+
+    <Button
+        android:id="@+id/button_identifikasi"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="54dp"
+        android:layout_marginLeft="54dp"
+        android:layout_marginTop="150dp"
+        android:layout_marginEnd="54dp"
+        android:layout_marginRight="54dp"
+        android:background="@drawable/pink_button"
+        android:text="Identifikasi Penyakit"
+        android:textColor="#FFFFFF"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button_informasi"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="54dp"
+        android:layout_marginLeft="54dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginEnd="54dp"
+        android:layout_marginRight="54dp"
+        android:background="@drawable/pink_button"
+        android:paddingBottom="8dp"
+        android:text="Tips dan Informasi"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button_identifikasi" />
+
+    <Button
+        android:id="@+id/button_musik"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="54dp"
+        android:layout_marginLeft="54dp"
+        android:layout_marginTop="37dp"
+        android:layout_marginEnd="54dp"
+        android:layout_marginRight="54dp"
+        android:background="@drawable/pink_button"
+        android:text="Musik"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button_informasi" />
+
+    <Button
+        android:id="@+id/button_hubbidan"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="54dp"
+        android:layout_marginLeft="54dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginEnd="54dp"
+        android:layout_marginRight="54dp"
+        android:background="@drawable/pink_button"
+        android:text="Hubungi Bidan"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button_musik" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

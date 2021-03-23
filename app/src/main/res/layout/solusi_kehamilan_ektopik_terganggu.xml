@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/pinkflavour_background"
+    tools:context=".solusi.Solusi_Kehamilan_Ektopik_Terganggu">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="36dp"
+        tools:layout_editor_absoluteY="147dp">
+
+        <TextView
+            android:id="@+id/text_judul"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:text="KEHAMILAN EKTOPIK TERGANGGU"
+            android:textAlignment="center"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/text_isi"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical|end"
+            android:background="#ffffff"
+            android:padding="6dp"
+            android:justificationMode="inter_word"
+            android:text="@string/Kehamilan_Ektopik_Terganggu" />
+    </LinearLayout>
+</ScrollView>
